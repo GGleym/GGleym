@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GGleym
 - 👀 I’m interested in such things like web-debelopment, blogging, avitaion and everything like that :)
 - 🌱 I’m currently learning Front-End in the course from Meta.
-- 📫 You can easile dm me at telegram or instagram. There are my contacts: tg @GGleym Inst @gleymas
+- 📫 You can easily dm me at telegram or instagram. There are my contacts: tg @GGleym Inst @gleymas
 
 <!---
 GGleym/GGleym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
