@@ -8,7 +8,7 @@
 
 > Telegram: @GGleym
 
-> mail: gleymivan@icloud.com
+> E-mail: gleymivan@icloud.com
 
 <!---
 GGleym/GGleym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
